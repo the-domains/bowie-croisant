@@ -16,3 +16,6 @@ navigation:
   - name: Bowie Croisant Portfolio Site
     url: bowiecroisant.com
     type: external
+  - name: Bowie Croisant Wordpress >2013
+    url: 'https://bowiecroisant.wordpress.com/'
+    type: external
