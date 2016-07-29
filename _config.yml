@@ -6,9 +6,13 @@ color:
   saturation: 0.8924645595252514
   rhythmicContrast: 0.03196456003934145
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Bowie Croisant
+navigation:
+  - name: Bowie Croisant Portfolio Site
+    url: bowiecroisant.com
+    type: external
